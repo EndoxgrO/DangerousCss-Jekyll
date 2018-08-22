@@ -1,0 +1,1 @@
+This is the website designed through following the Learn Enough CSS tutorial. HTML & CSS was hand coded and then parsed w/ Jekyll to demonstrate it's ability to create reusable code when making multi-page websites. Dynamic components will be added after finishing the Javascript tutorial.
